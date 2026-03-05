@@ -1,2 +1,1 @@
-# trading-quantitativo-bitcoin
-Tesi di laurea in Statistica e Big Data - Strategie di trading ibride (ARIMA/ML/DL)
+Questo progetto analizza l'uso di modelli ibridi (ARIMA/ARFIMA + XGBoost/LSTM) per prevedere i rendimenti di Bitcoin.
